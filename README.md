@@ -9,6 +9,7 @@ I also added a project to the solution to host your plugin standalone, without P
 Further work is dedicated to add an installation functionality. 
 
 Regards,
-Konstantin Kracchenko
-_PhD in Engineering_
+Konstantin Kravchenko
+
+_PhD in Engineering_,
 _Ekaterinburg, Russia_
